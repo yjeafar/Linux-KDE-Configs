@@ -1,0 +1,8 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=Materia-Manjaro-Dark
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/mayter/.local/share/wallpapers/Green HD 1920 X 1080.png
